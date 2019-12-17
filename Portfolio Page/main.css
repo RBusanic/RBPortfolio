@@ -1,0 +1,160 @@
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  color: #7fffd4;
+  font-size: 55px;
+  font-weight: 300;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 35px;
+  color: #f0f8ff;
+  font-weight: 300px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Righteous', cursive;
+  font-size: 23px;
+  color: #20b2aa;
+  font-weight: 300px;
+  line-height: 25px;
+  margin-bottom: 0;
+  text-align: left;
+}
+
+h4 {
+    font-family: 'Righteous', cursive;
+    font-size: 20px;
+    color: #20b2aa;
+    font-weight: 300px;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+p {
+  font-size: 15px;
+  font-weight: 100;
+  font-family: 'Caveat', cursive;
+  color: black;
+  text-align: center;
+}
+
+.spinel {
+  color: #dcdcdc;
+  text-align: center;
+  margin-bottom: 20px;
+    line-height: 16px;
+  padding-top: 14px;
+  background-color: #e6e6fa;
+  background-image: url(img/Flower.jpeg);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bismuth {
+  color: #dcdcdc;
+  text-align: center;
+  margin-bottom: 20px;
+  padding-top: 95px;
+  padding-bottom: 100px;
+  background-color: #e6e6fa;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+ color: white;
+    text-align: left;
+    margin-bottom: 20px;
+    padding-top: 95px;
+    padding-bottom: 100px;
+    background-image: url(img/Flower.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.itachi {
+  font-family: 'Abril Fatface', cursive;
+  color: red;
+  font-size: 55px;
+  font-weight: 300;
+  line-height: 64px;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.angeldust {
+    color: #f08080;
+    text-align: center;
+    margin-bottom: 18px;
+    padding-top: 25px;
+    padding-bottom: 100px;
+    background-color: #f08080;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.alastor {
+    color: #cd5c5c;
+    text-align: center;
+    margin-bottom: 18px;
+    padding-top: 25px;
+    padding-bottom: 100px;
+    background-color: #cd5c5c;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.husk {
+    color: #dc143c;
+    text-align: center;
+    margin-bottom: 18px;
+    padding-top: 100px;
+    background-color: #dc143c;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.amethyst {
+    color: #8a2be2;
+    text-align: center;
+    margin-bottom: 18px;
+    padding-top: 100px;
+    background-color: #8a2be2;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.charlie {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 25px;
+    color: #b0e0e6;
+    font-weight: 300px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.vaggie {
+    font-size: 15px;
+    font-weight: 100px;
+    font-family: 'Nanum Myeongjo', serif;
+    line-height: 11px;
+    color: #f8f8ff;
+    text-align: center;
+}
+
+.fatnuggets {
+    font-size: 25px; 
+    font-weight: 100px;
+    font-family: 'Nanum Myeongjo', serif;
+    color: #e6e6fa;
+    text-align: center;
+}
+
